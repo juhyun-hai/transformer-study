@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.ipynb_checkpoints/
+output/
+.env
+.DS_Store
+Korean-English/
+output/
+*.chkpt
+*.xlsx
